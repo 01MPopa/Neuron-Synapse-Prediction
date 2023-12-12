@@ -1,2 +1,2 @@
 # Neuron-Synapse-Prediction
-Using machine learning to predict whether a synapse will form based on axonal-dendritic proximity
+Using machine learning to predict whether a synapse will be formed based on axonal-dendritic proximity
