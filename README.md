@@ -12,3 +12,5 @@ Using machine learning to predict whether a synapse will be formed based on axon
    -------------------------------------------------------------------------------------------------------------------------
 
  *This a major ongoing research project in neuroscience. Being able to predict when an ADP will convert to a synapse and explain why this happens, is an open problem in neuroscience and a new solution would represent a major advance.*
+
+*The data comes from the Tolias Lab at Baylor College of Medicine. It represents neuronal activity in the visual cortex of mice as they are watching a movie. See the full report for more details.*
